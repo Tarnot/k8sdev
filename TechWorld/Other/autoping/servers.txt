@@ -2,10 +2,8 @@ op5-01
 op5-02
 op5-03
 op5b-01
-op5b-01-w
 yggdrasil
 gutenberg 
-gutenberg-w
 skuld
 engi
 draugr
