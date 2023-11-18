@@ -3,15 +3,14 @@ op5-02
 op5-03
 op5b-01
 op5b-01-w
-mckayla
 yggdrasil
-gutenberg
+gutenberg 
 gutenberg-w
 skuld
 engi
 draugr
 styri
+valkyrie
 alexandria
 alexandria-e
 bifrost
-localhost
