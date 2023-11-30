@@ -10,5 +10,4 @@ draugr
 styri
 valkyrie
 alexandria
-alexandria-e
 bifrost
